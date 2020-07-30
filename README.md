@@ -9,5 +9,5 @@ Filtering Collaborative - rating movies by users
 Based-Content - similarity between abstracts
 
 <p style="display: flex;">
-    <img src="https://github.com/mor0981/Text-Summarization-/blob/master/image.png" >
+    <img src="https://github.com/mor0981/Movie-Recommendation-Systems/blob/master/image.png" >
 </p>
